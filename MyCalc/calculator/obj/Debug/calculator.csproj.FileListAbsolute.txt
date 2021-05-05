@@ -1,6 +1,0 @@
-/Users/karybekov22/Desktop/Efsol Test App/MyCalc/calculator/bin/Debug/calculator.exe
-/Users/karybekov22/Desktop/Efsol Test App/MyCalc/calculator/bin/Debug/calculator.pdb
-/Users/karybekov22/Desktop/Efsol Test App/MyCalc/calculator/obj/Debug/calculator.csprojAssemblyReference.cache
-/Users/karybekov22/Desktop/Efsol Test App/MyCalc/calculator/obj/Debug/calculator.csproj.CoreCompileInputs.cache
-/Users/karybekov22/Desktop/Efsol Test App/MyCalc/calculator/obj/Debug/calculator.exe
-/Users/karybekov22/Desktop/Efsol Test App/MyCalc/calculator/obj/Debug/calculator.pdb
